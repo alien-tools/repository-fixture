@@ -12,6 +12,11 @@
 
     <artifactId>module-c</artifactId>
     <packaging>pom</packaging>
+    <version>${revision}</version>
+
+    <properties>
+        <revision>1.1.1</revision>
+    </properties>
 
     <modules>
         <module>nested-a</module>
