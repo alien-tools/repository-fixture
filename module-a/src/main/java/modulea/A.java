@@ -1,7 +1,11 @@
 package modulea;
 
 public class A {
-	public void a() {
+	public void a(int a) {
+
+	}
+
+	public void foo() {
 
 	}
 }
