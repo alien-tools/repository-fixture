@@ -1,5 +1,5 @@
 # repository-fixture
-A simple test repository for all things Maracas/BreakBot
+A simple test repository for all things Maracas/BreakBot; but better
 
 
 ## Structure
