@@ -4,6 +4,7 @@ A simple test repository for all things Maracas/BreakBot
 
 ## Structure
 
+```
 /
     pom.xml
     module-a/
@@ -23,3 +24,5 @@ A simple test repository for all things Maracas/BreakBot
             src/main/java/
                 nestedb/
                     NestedB.java
+```
+
