@@ -1,0 +1,5 @@
+clients:
+  repositories:
+    - repository: alien-tools/client-fixture-a
+    - repository: alien-tools/client-fixture-b
+
